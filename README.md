@@ -41,6 +41,10 @@ docker compose up
 
 Acessar o localhost em: http://localhost:8888
 
+## Licença
+
+Este projeto está licenciado sob a GNU Affero General Public License v3.0 (AGPL-3.0) com termos adicionais que restringem o uso deste software para fins comerciais. Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
 ## Equipe EPS
 
 | Foto | Nome | Github | Discord | Email | Matrícula |
@@ -55,6 +59,7 @@ Acessar o localhost em: http://localhost:8888
 | Foto | Nome | Github | Discord | Email | Matrícula |
 |:----:|:----:|:------:|:-------:|:-----:|:---------:|
 | <img width="100px" style="border-radius:10%" src="https://github.com/benlacerda.png" alt="Benjamim Lacerda Santos"> | Benjamim Lacerda Santos | @benlacerda | arranhaceu | benjamim.lacerda16@gmail.com | 200062123 |
+| <img width="100px" style="border-radius:10%" src="https://github.com/felipeJRdev.png" alt="Felipe de Jesus Rodrigues"> | Felipe de Jesus Rodrigues | @felipeJRdev | feliperodr0 | felipe123rodrigues1@gmail.com | 211062867 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/felipeJRdev.png" alt="Felipe de Jesus Rodrigues"> | Felipe de Jesus Rodrigues | @felipeJRdev | feliperodr0 | felipe123rodrigues1@gmail.com | 211062867 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/GHenriqueLima.png" alt="Gabriel Henrique Rodrigues de Lima"> | Gabriel Henrique Rodrigues de Lima  | @GHenriqueLima | gabigol.lima | ghrl2003@gmail.com | 221022284 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/xzxjesse.png" alt="Jéssica Eveline Saraiva Araújo"> | Jéssica Eveline Saraiva Araújo  | @xzxjesse | xzxjesse | jessicaeveline121@gmail.com | 221022319 |
